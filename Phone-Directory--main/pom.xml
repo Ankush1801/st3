@@ -23,13 +23,13 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
         <webjars-bootstrap.version>3.3.7</webjars-bootstrap.version>
-        <webjars-jquery.version>3.2.1</webjars-jquery.version>
+        <webjars-jquery.version>3.7.0</webjars-jquery.version>
         <nekohtml.version>1.9.21</nekohtml.version>
         <jackson-json.version>2.8.8</jackson-json.version>
 
         <!--webjars-->
         <webjars-bootstrap.version>3.3.7-1</webjars-bootstrap.version>
-        <webjars-jquery.version>3.2.1</webjars-jquery.version>
+        <webjars-jquery.version>3.7.0</webjars-jquery.version>
         <webjars-datetimepicker.version>2.5.4</webjars-datetimepicker.version>
         <webjars-noty.version>2.4.1</webjars-noty.version>
         <webjars-datatables.version>1.10.15</webjars-datatables.version>
